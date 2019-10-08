@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StudioQuizz</string>
+    <string name="btn_jouer">Jouer</string>
+    <string name="btn_mesScores">Mes scores</string>
+    <string name="paris">StudioQuizz</string>
+    <string name="milan">Jouer</string>
+    <string name="london">Mes scores</string>
+
+</resources>
