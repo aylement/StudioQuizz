@@ -2,8 +2,34 @@
     <string name="app_name">StudioQuizz</string>
     <string name="btn_jouer">Jouer</string>
     <string name="btn_mesScores">Mes scores</string>
-    <string name="paris">StudioQuizz</string>
-    <string name="milan">Jouer</string>
-    <string name="london">Mes scores</string>
+    <!-- Texte vide -->
+    <string name="txtQuestion">Première question</string>
+    <string name="txtReponse1">Première réponse</string>
+    <string name="txtReponse2">Deuxième réponse</string>
+    <string name="txtReponse3">Troisième réponse</string>
+    <!-- Première Question -->
+    <string name="firstQuestion">Quelle est la capitale du Gabon?</string>
+    <string name="firstdAnswer1">Port-Gentil</string>
+    <string name="firstdAnswer2">Libreville</string>
+    <string name="firstdAnswer3">Owendo</string>
+    <!-- Deuxième Question -->
+    <string name="secondQuestion">De quelle ville la meilleure eau en bouteille de France tient-elle son nom?</string>
+    <string name="secondAnswer1">Vittel</string>
+    <string name="secondAnswer2">Contrex</string>
+    <string name="secondAnswer3">Evian</string>
+    <!-- Troisième Question -->
+    <string name="thirdQuestion">Je vois la vie en...</string>
+    <string name="thirdAnswer1">Rose</string>
+    <string name="thirdAnswer2">Vosges</string>
+    <string name="thirdAnswer3">Noir et Blanc</string>
+    <!-- Quatrième Question -->
+    <string name="fourthQuestion">Quelle est la superficie en km² du Texas?</string>
+    <string name="fourthAnswer1">695 662 km²</string>
+    <string name="fourthAnswer2">357 386 km²</string>
+    <string name="fourthAnswer3">513 120 km²</string>
+
+    <!-- Quatrième Question -->
+    <string name="voidScore">Vous n\'avez pas encore de score...</string>
+    <string name="existentScore">Ton dernier score a été de : </string>
 
 </resources>
